@@ -38,8 +38,8 @@ Final analysis of the results, discussing the scalability of the solution and th
 
 The model achieved outstanding performance, demonstrating both high accuracy and stability across different data splits.
 
-| Metric | Score | Description |
-| :--- | :--- | :--- |
+| Metric | Score |
+| :--- | :--- | 
 | **Accuracy** | **95.35%** | 
 | **F1-Score** | **95.35%** | 
 | **AUC-ROC** | **0.9916** | 
