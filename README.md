@@ -58,7 +58,7 @@ The model achieved outstanding performance, demonstrating both high accuracy and
     pip install -r requirements.txt
     ```
 3.  **Execute the Notebook:**
-    Open `Final_Project_V3.ipynb` in Google Colab or a local Jupyter environment. You will need a `kaggle.json` API token to download the dataset automatically.
+    Open `Final_project_L_Cano_A_Gil.ipynb` in Google Colab or a local Jupyter environment. You will need a `kaggle.json` API token to download the dataset automatically.
 
 ---
 
