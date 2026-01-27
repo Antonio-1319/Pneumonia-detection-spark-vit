@@ -1,0 +1,9 @@
+pyspark==3.5.0
+spark-nlp
+torch
+transformers
+pandas
+pillow
+scikit-learn
+matplotlib
+kaggle
