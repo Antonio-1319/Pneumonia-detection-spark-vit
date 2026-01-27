@@ -41,9 +41,14 @@ The model achieved outstanding performance, demonstrating both high accuracy and
 | Metric | Score |
 | :--- | :--- | 
 | **Accuracy** | **95.35%** | 
-| **F1-Score** | **95.35%** | 
+| **F1-Score** | **95.35%** |
+| **Recall** | **95.35%** |
+| **Weigthed precision** | **95.35%** |
 | **AUC-ROC** | **0.9916** | 
 | **Validation Acc** | **100%** | 
+
+<img width="702" height="547" alt="image" src="https://github.com/user-attachments/assets/ee734a91-8e4c-4b5b-81c4-e6bddba46be3" />
+
 
 ---
 
