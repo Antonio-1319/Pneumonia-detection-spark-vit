@@ -62,7 +62,7 @@ The model achieved outstanding performance, demonstrating both high accuracy and
 
 ---
 
-##Authors
+## Authors
 
 * **Laura Cano** - *Master in Computational Biology, UPM*
 * **Antonio Gil** - *Master in Computational Biology, UPM*
